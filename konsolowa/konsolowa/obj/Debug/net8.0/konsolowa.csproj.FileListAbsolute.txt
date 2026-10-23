@@ -26,3 +26,4 @@ C:\Users\bartek.pietka\Desktop\inf_04_2026_06_01\konsolowa\konsolowa\obj\Debug\n
 C:\Users\bartek.pietka\Desktop\inf_04_2026_06_01\konsolowa\konsolowa\obj\Debug\net8.0\konsolowa.pdb
 C:\Users\bartek.pietka\Desktop\inf_04_2026_06_01\konsolowa\konsolowa\obj\Debug\net8.0\konsolowa.genruntimeconfig.cache
 C:\Users\bartek.pietka\Desktop\inf_04_2026_06_01\konsolowa\konsolowa\obj\Debug\net8.0\ref\konsolowa.dll
+C:\Users\bartek.pietka\Desktop\inf_04_2026_06_01\konsolowa\konsolowa\obj\Debug\net8.0\konsolowa.sourcelink.json

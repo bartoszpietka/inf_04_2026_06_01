@@ -12,14 +12,6 @@ code {
     monospace;
 }
 
-.container{
-  margin: 5%;
-  display: 'flex';
-  flex-direction: 'column';
-}
-
-.input{
-  padding: 10px;
-  font-size: 16px;
-  width: 100%;
+.paragrath {
+  
 }
